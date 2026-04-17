@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(233, 233, 233);
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.conatiner {
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 0px 4px,12px rgba(0,0,0,0.5);
+}
+
+button {
+    align-items: center;
+    background-color: rgb(0, 96, 37);
+    color: whitesmoke;
+}
